@@ -1,0 +1,1313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"style",
+				"style\tTag"
+			],
+			[
+				"sc",
+				"script\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "runner.js",
+			"settings":
+			{
+				"buffer_size": 13649,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "runner.css",
+			"settings":
+			{
+				"buffer_size": 1410,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "trail",
+		"selected_items":
+		[
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"split",
+				"Text Pastry: Split selection"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"format ",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax ini",
+				"Set Syntax: INI"
+			],
+			[
+				"syntax: vim",
+				"Set Syntax: Vintageous Command Line"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable p",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"Set Syntax: Hex"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove tr",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"format j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"snip",
+				"Snippet: Prototype"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+			"tsc",
+			"quit",
+			"exit",
+			"help",
+			"test",
+			"list",
+			"help",
+			"cd ",
+			"cd ..",
+			"dir",
+			"clear",
+			"dir",
+			"ls",
+			"exit",
+			"cd",
+			"cd D:/dev",
+			"D:",
+			"dir",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dev/games/runner"
+	],
+	"file_history":
+	[
+		"/D/Dev/games/runner/runner.js",
+		"/C/Work/PROD versions/TUI/MXP_WOrder.ini",
+		"/C/Users/drino/AppData/Local/Sony/Vegas Pro/13.0/dx_grovel_x64.log",
+		"/C/Users/drino/AppData/Local/Sony/Vegas Pro/13.0/ocio_x64.log",
+		"/C/Users/drino/AppData/Local/Sony/Vegas Pro/13.0/svfx_video_grovel_x64.log",
+		"/C/Users/drino/AppData/Local/Sony/Vegas Pro/13.0/dx_video_grovel_x64.log",
+		"/C/Users/drino/AppData/Local/Sony/Vegas Pro/13.0/gpu_video_x64.log",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/store/StoreSearchGuests.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CTablesMap.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CSpecialOrder.js",
+		"/C/Work/Projekti/Waiter Order/_tmp/VOC Star/u_ex160912.log",
+		"/C/Work/Projekti/Waiter Order/_tmp/VOC Star/u_ex160915.log",
+		"/C/Work/Projekti/Intranet/websource/app/view/VMain.js",
+		"/C/Work/Projekti/Intranet/websource/app/controller/CPersons.js",
+		"/C/Work/Projekti/Waiter Order/bin/MXP_WOrder.ini",
+		"/C/Work/Projekti/Waiter Order/_tmp/VOC Star/u_ex160912/u_ex160912.log",
+		"/D/Dev/javascript/vobenca_kviz.js",
+		"/C/Work/Projekti/Intranet/websource/index.html",
+		"/D/Dev/javascript/Accelerometer test/accelerometer.html",
+		"/C/Work/Projekti/Waiter Order/src_worder/index.html",
+		"/C/Work/Projekti/Intranet/websource/app/controller/CMenu.js",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Work/Projekti/Intranet/websource/intranet-prod.appcache",
+		"/C/Work/Projekti/Intranet/websource/index-prod.html",
+		"/D/Dev/javascript/Accelometer test/accelometer.html",
+		"/C/Work/Projekti/Intranet/websource/app/controller/CApp.js",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Work/Projekti/Intranet/websource/app/controller/CItinerary.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/view/VTablesMap.js",
+		"/C/Work/Projekti/Intranet/websource/index-new-theme.html",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CApp.js",
+		"/C/Work/Projekti/Intranet/websource/app/store/StoreGuests.js",
+		"/C/Work/Projekti/Intranet/bin/MXP_Intranet.ini",
+		"/C/Work/Projekti/Scan/bin/MXP_Scan.ini",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CTableReservation.js",
+		"/C/Users/drino/AppData/Local/Sencha/Sencha Architect 3.0/architect.settings",
+		"/C/Work/Projekti/Waiter Order/_tmp/VOC Sea/MXP_WOrder.ini",
+		"/C/Users/drino/Desktop/MIUI V7.5.2.0 Redmi 3/flash_this/flash_all.bat",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/view/VReservationContextMenu.js",
+		"/C/Work/Projekti/call-with-hannes-2016-08-10",
+		"/C/Work/Projekti/call-with-hannes-2016-09-01-barry-harrry",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CQtyOptions.js",
+		"/C/Work/Projekti/Waiter Order/middleware/mxDM_WO_Pos.dfm",
+		"/C/Work/Projekti/Tour Kiosk/bin/MXP_TourKiosk.ini",
+		"/C/Work/Projekti/Scan/MXCountSheet/app/controller/CDebug.js",
+		"/C/Work/Projekti/Scan/MXCountSheet/lib/SQLiteProxy/SqliteConnection.js",
+		"/C/Work/Projekti/Waiter Order/middleware/mxDM_WO_Order.dfm",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CReservationsCalendar.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/store/StoreTableTimeSlots.js",
+		"/C/Users/drino/Desktop/MIUI V7.5.2.0 Redmi 3/land_global_images_V7.5.9.0.MALMIDE_20160805.0000.29_6.0_global/flash_all.sh",
+		"/C/Users/drino/Desktop/MIUI V7.5.2.0 Redmi 3/land_global_images_V7.5.9.0.MALMIDE_20160805.0000.29_6.0_global/flash_all.bat",
+		"/C/Work/Projekti/Scan/MXCountSheet/app/controller/CMain.js",
+		"/C/Work/Projekti/Scan/bin/MXP_Scan.ini.template",
+		"/C/Work/Projekti/Scan/bin/MXP_Scan.ini.devtemplate",
+		"/C/Work/Projekti/Waiter Order/middleware/mxDM_WO_Order.pas",
+		"/C/Users/drino/bin/Sencha/Cmd/version.properties",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CLogin.js",
+		"/C/Work/Projekti/Waiter Order/_tmp/MXP_WOrder_MS3_20160818/MXP_WOrder_20160818.log",
+		"/C/Work/Projekti/Tour Kiosk/websource/app/controller/CScanCard.js",
+		"/C/Work/Projekti/Intranet/middleware/mxDM_IT_Pub.dfm",
+		"/D/Dev/pokemons.js",
+		"/C/Work/Projekti/Tour Kiosk/middleware/mxDM_TK_Pub.pas",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CPOSCheck.js",
+		"/C/Work/Projekti/Tour Kiosk/_tmp/MS2/MXP_TourKiosk_20160803.log",
+		"/C/Work/Projekti/Waiter Order/middleware/MXP_WO_Worker.dpr",
+		"/C/Work/Projekti/Bus Manifest/bin/MXP_BusMan.ini",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/COrder.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CTables.js",
+		"/C/Work/Projekti/workingFile.md",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CMenu.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/COrdersByCourse.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/functions.js",
+		"/C/Work/Projekti/Bus Manifest/websource/MXBusMan.xds",
+		"/C/Work/Projekti/Tour Kiosk/websource/settings.js",
+		"/C/Work/Projekti/Intranet/middleware/mxDM_IT_TourOrder.dfm",
+		"/C/Work/Projekti/Tour Kiosk/websource/common.js",
+		"/C/Work/Projekti/Tour Kiosk/Middleware/mxDM_TK_Pub.dfm",
+		"/D/Prenosi/GAME_MASTER_POKEMON_v0_2.tsv",
+		"/C/Work/Projekti/Tour Kiosk/websource/MXPKiosk.xds",
+		"/C/Users/drino/bin/Sencha/Cmd/sencha",
+		"/C/Users/drino/AppData/Local/Sencha/Sencha Architect 3.2/extracted/touch24-compile.json",
+		"/C/Work/Projekti/Bus Manifest/websource/app/controller/CPersonDetails.js",
+		"/C/Users/drino/AppData/Local/Sencha/Sencha Architect 3.2/user.license",
+		"/C/Users/drino/AppData/Local/Sencha/Sencha Architect 3.2/.started",
+		"/C/Users/drino/AppData/Local/Sencha/Sencha Architect 3.2/architect.settings",
+		"/D/Prenosi/pokemon_data.zip",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/17596 - Reprint WO/MXP_WOrder_20160711.log",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/17596 - Reprint WO/MXP_WOrder_20160713.log",
+		"/C/Work/Projekti/Waiter Order/bin/MXP_WOrder.ini.template",
+		"/C/Work/Projekti/deviceLog.js",
+		"/D/Dev/AutoHotKey.ahk",
+		"/C/Work/Projekti/Tour Kiosk/websource/index-prod.html",
+		"/C/Work/Projekti/Intranet/websource/app/view/VItinerary.js",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/COrderDetails.js",
+		"/C/Program Files/AutoHotkey/Installer.ahk",
+		"/C/Work/Projekti/Intranet/middleware/mxDM_IT_TourCounts.dfm",
+		"/C/Work/Projekti/todo.md",
+		"/C/Users/drino/_vimrc",
+		"/C/Users/drino/_viminfo",
+		"/C/Users/drino/Desktop/AutoHotKey.ahk",
+		"/C/Work/Projekti/Waiter Order/src_worder/mxpapps.html",
+		"/C/Work/Projekti/Intranet/websource/app/controller/CTourCountsV2.js",
+		"/C/Work/Projekti/Intranet/websource/app/view/VTourCountsItem.js",
+		"/C/Work/Projekti/work.sublime-project",
+		"/D/Dokumenti/Rockstar Games/GTA V/settings_default.xml",
+		"/D/Dokumenti/Rockstar Games/GTA V/settings.xml",
+		"/D/Games/Grand Theft Auto V/steam_api.ini",
+		"/C/Work/Projekti/Waiter Order/src_worder/build_wo.jsb3",
+		"/C/Work/Projekti/Waiter Order/src_worder/mxpapps_old.html",
+		"/C/Work/Projekti/Waiter Order/src_worder/mxp-web-apps.html",
+		"/C/Work/Projekti/Waiter Order/src_worder/mxpWebApps.html",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/Torrents/Grand.Theft.Auto.V-RELOADED/reloaded.nfo",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/drino/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Work/Projekti/Intranet/bin/MXP_Intranet.ini.template",
+		"/D/Prenosi/lavric3389.txt",
+		"/C/Work/Projekti/to-to.txt",
+		"/C/Work/Projekti/Waiter Order/src_worder/app/controller/CPOS.js",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/MXP_WOrder.ini",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/MXP_WOrder_20160501.log",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/MXP_WOrder_20160503.log",
+		"/C/Users/drino/AppData/Roaming/Skype/My Skype Received Files/MXP_WOrder.ini",
+		"/C/Work/Projekti/Waiter Order/_tmp/MS4/MXP_WOrder - Copy.ini",
+		"/D/Dev/angular2/angular2-quickstart/package.json",
+		"/D/Dev/angular2/angular2-quickstart/typings.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"C:\\Work\\Projekti\\Intranet\\websource",
+			"C:\\Work\\Projekti\\Tour Kiosk\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource",
+			"C:\\Work\\Projekti\\Intranet\\websourse",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Scan\\MXCountSheet\\app",
+			"C:\\Work\\Projekti\\Scan\\MXCountSheet\\",
+			"C:\\Work\\Projekti\\Scan\\MXCountSheet\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\webapp\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Bus Manifest\\websource\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\middlewate",
+			"C:\\Work\\Projekti\\Internet",
+			"C:\\Work\\Projekti\\Tour Kiosk\\Middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\_tmp\\MS2\\MXP_WOrder_20160524",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Intranet\\middleware",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\_tmp\\vrc_ingvi_u_ex160422",
+			"C:\\Work\\Projekti\\Intranet\\websource\\",
+			"C:\\Work\\Projekti\\Intranet\\websource\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Waiter Order\\_tmp\\vrc_ingvi_MXP_WOrder_ISAPI",
+			"C:\\Work\\Projekti\\Waiter Order\\_tmp\\vrc_ingvi_u_ex160422",
+			"C:\\Work\\Projekti\\Waiter Order\\_tmp\\MXP_WOrder_ISAPI",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app",
+			"C:\\Work\\Projekti\\Tour Kiosk\\websource",
+			"C:\\Work\\Projekti\\Tour Kiosk\\install",
+			"C:\\Work\\Projekti\\Waiter Order\\src_worder\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"power",
+			"visina",
+			");\n",
+			"=>",
+			"powerTime",
+			"initialSpeed",
+			"speed",
+			"playSound",
+			"soundsInitialized",
+			"initialSpeed",
+			"initialSpeed ",
+			"initialSpeed",
+			"speed",
+			"soundsInit",
+			"debug",
+			"imageSmoothingEnabled",
+			"CanvasRenderingContext2D.imageSmoothingEnabled",
+			"imageSmoothingEnabled",
+			"CanvasRenderingContext2D.imageSmoothingEnabled",
+			"debugEl",
+			"scope",
+			"speed",
+			"persdonLuggage",
+			"btnAddPersonComment",
+			"TICKET_VOIDED_BY_USER_ID",
+			"TICKET_VOIDED ",
+			"TICKET_VOIDED",
+			"REC_DELETED",
+			"modifier_ids",
+			"filterItemOptions",
+			"StoreSearchGuests.load",
+			"StoreSearchGuests",
+			"/Guests",
+			"GuestsStore",
+			"StoreGuests",
+			"/Guests",
+			"Guests'",
+			"Guests",
+			"reservationsLastChange",
+			"reservationsGuestsCount",
+			"TableMapMeals",
+			"GUESTS_ALLERGENS",
+			"TableReservations\"",
+			"TableReservations",
+			"\"TablesMap\"",
+			"TablesMap\"",
+			"TablesMap'",
+			"/TablesMap",
+			"TablesMap",
+			"( \\d{5}\\n)|( \\d{6}\\n)|( \\d{7}\\n)",
+			"TablesMap=",
+			"TablesMap",
+			"/multi[.]+TablesMap",
+			"/multi{.}TablesMap",
+			"/multi?TablesMap",
+			"/multi",
+			"( \\d{5}\\n)|( \\d{6}\\n)|( \\d{7}\\n)",
+			" \\d{5}\\n",
+			"getUnique",
+			"VPersonDiary",
+			"btnAddPersonComment",
+			"getWalkInTimeSlot",
+			"no time slot",
+			"VIPs",
+			"refreshTabBar",
+			"    ",
+			"\t",
+			"charTable",
+			"È",
+			"è",
+			"È",
+			"è",
+			"App.VGuests",
+			"conMenuSBS",
+			"conGuestsSBS",
+			"conMenuSBS",
+			"HAS_COMMENTS",
+			"HAS_IMAGE",
+			"IMG_COUNT",
+			"COM_COUNT",
+			"SpecialRequestsCount",
+			"GiftsCount",
+			"reduce",
+			"ORG_UNIT_ID:",
+			"Not possible to change pre-",
+			"btnTableMapDate",
+			"AllTimeSlots",
+			"currentTimeStr",
+			"btnTableMapDate",
+			"StoreGuests.load",
+			"StoreGuests",
+			"/Guests'",
+			"Guests'",
+			"ptype",
+			"App.storeGuests._filterBy",
+			"loadGuestsStore",
+			"App.VMain.down('#conGuestsSBS').down(\"titlebar\")",
+			"conGuestsSBS",
+			"SpecialRequests:",
+			"SpecialRequests",
+			"Gifts:",
+			"document.onkey",
+			"onkey",
+			"window.onkey",
+			"onkeydown",
+			"onkeypress",
+			"wrap",
+			".onresize",
+			"stopJoiningTables",
+			"setJoiningTables",
+			"setJoiningSlots",
+			"joiningTablesAt",
+			"joiningTables",
+			"joiningTablesAt",
+			"joinedTables",
+			"stopJoiningTables",
+			"startJoiningTables",
+			"unjoinTables",
+			"joinTables",
+			"onListTableReservationPersonsItemTap",
+			"btnReservationGuestsLeft",
+			"listTableReservationPersons",
+			"btnReservationGuestsLeft",
+			"maitre",
+			"maitred",
+			"tablesMapForAll",
+			"createAvailableTimesBtns",
+			"App.VTablesMap.down(\"#contNewReservation\")._obj.showMore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t",
+			"    ",
+			"....",
+			"codeTable",
+			"Č",
+			"č",
+			"Č",
+			"č",
+			"\\n",
+			"-",
+			"",
+			"\\n",
+			"-",
+			"",
+			":",
+			"",
+			"b",
+			"B",
+			"a",
+			"",
+			"\\nMXWA-",
+			" -",
+			"",
+			"'",
+			"\\\"",
+			"knightsText: ",
+			"text: ",
+			"numbers: ",
+			"name: ",
+			" ",
+			"\",\\n\\t\\t\"knightsText\": \"",
+			"\",\\n\"knightsText\": \"",
+			" ",
+			"{\\n\"name\":",
+			"\"text\":",
+			"\"numbers\":",
+			"\"name\": ",
+			"\"",
+			" \n},\n{",
+			"',\\nnumbers: [], ",
+			"\",\\nnumbers: [], ",
+			"\",\\nnumber: ",
+			"",
+			"0",
+			"1",
+			"0",
+			"1",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "runner.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								776,
+								776
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										771,
+										775
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "runner.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										343,
+										344
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										98,
+										99
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "runner.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mxp_intr",
+				"Intranet\\bin\\MXP_Intranet.ini"
+			],
+			[
+				"mxp_intranet",
+				"Intranet\\bin\\MXP_Intranet.ini"
+			],
+			[
+				"mxp_scan",
+				"Scan\\bin\\MXP_Scan.ini"
+			],
+			[
+				"mpx_intranet",
+				"Intranet\\bin\\MXP_Intranet.ini"
+			],
+			[
+				"mxp_tourkios",
+				"Tour Kiosk\\bin\\MXP_TourKiosk.ini"
+			],
+			[
+				"worder.ini",
+				"Waiter Order\\bin\\MXP_WOrder.ini"
+			],
+			[
+				"busman",
+				"Bus Manifest\\bin\\MXP_BusMan.ini"
+			],
+			[
+				"woreder.ini.template",
+				"Waiter Order\\bin\\MXP_WOrder.ini.template"
+			],
+			[
+				"working",
+				"workingFile.md"
+			],
+			[
+				"mxp_worder.ini",
+				"Waiter Order\\bin\\MXP_WOrder.ini"
+			],
+			[
+				"mxp_worder",
+				"Waiter Order\\bin\\MXP_WOrder.ini.template"
+			],
+			[
+				"mxpapp",
+				"Waiter Order\\src_worder\\mxpapps.html"
+			],
+			[
+				"mxpapps",
+				"Waiter Order\\src_worder\\mxpapps.html"
+			],
+			[
+				"mxp_intranet.ini",
+				"Intranet\\bin\\MXP_Intranet.ini"
+			],
+			[
+				"list.js",
+				"app\\view\\users\\List.js"
+			],
+			[
+				"list",
+				"app\\view\\users\\List.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
